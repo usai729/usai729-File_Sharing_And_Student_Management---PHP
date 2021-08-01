@@ -5,9 +5,9 @@ Hi!
 I've used `PHP, HTML, CSS` and a little bit of `Javascript` for this project.<br>
 `MySQL` is for the database.
 
-Originally made for a educational institution.
+Originally made for a educational institution.<br>There are a few changes that the original site has gone through which have not been done to the files that have been uploaded here.
 
-So the database code goes like,
+Below is how the database is built.
 
 First create a database for files and use that db.
 `CREATE DATABASE files;`
@@ -35,7 +35,7 @@ CREATE TABLE youtubeLinks(
 );
 ```
 
-Create a table to store the data of students that want to be accepted to the site
+Create a table to store the data of students who are yet to accepted
 
 ```
 CREATE TABLE pendingStudents (
