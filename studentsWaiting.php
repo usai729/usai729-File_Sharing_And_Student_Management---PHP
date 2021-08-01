@@ -103,6 +103,7 @@
       </div>
     </nav>
 
+    //This is where the students from pending students MySQL table 
     <div id="root"></div>
 
     <script>
