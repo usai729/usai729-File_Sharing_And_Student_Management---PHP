@@ -1,0 +1,27 @@
+.container {
+    padding-top: 10px;
+}
+#btnSubmit {
+    padding-top: 5px;
+}
+#submitBtn {
+    font-weight: bold;
+}
+#submitBtn, #delAllBtn{
+	display: inline-block;
+}
+#dev:hover {
+	font-weight: bold;
+}
+#class {
+	padding-top: 2px;
+}
+#content {
+	font-size: small;
+}
+#A_C_BTN {
+	display: inline-block;
+}
+#dBtn {
+	margin-top: 0px;
+}

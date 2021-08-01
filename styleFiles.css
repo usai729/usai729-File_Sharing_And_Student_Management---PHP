@@ -1,0 +1,20 @@
+.container {
+    padding-top: 10px;
+}
+#devDiv {
+	background: linear-gradient(90deg, #eb0e12, white);
+}
+#dev:hover {
+	font-weight: bold;
+}
+#dev {
+	color: white;
+	font-weight: bold;
+}
+#content {
+	font-size: small;
+}
+#videoSec {
+	border: 1px solid red;
+	padding: 10px;
+}
