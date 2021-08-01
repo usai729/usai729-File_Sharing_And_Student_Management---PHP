@@ -1,0 +1,1 @@
+This folder `Uploads` is used to store the uploaded files
