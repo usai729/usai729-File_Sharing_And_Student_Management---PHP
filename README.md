@@ -7,6 +7,10 @@ I've used `PHP, HTML, CSS` and a little bit of `Javascript` for this project.<br
 
 Originally made for a educational institution.<br>There are a few changes that the original site has gone through which have not been done to the files that have been uploaded here.
 
+To start a local php server user the below command<br>
+`php -S localhost:8000`<br>
+This will start a php local server on port 8000
+
 Below is how the database is built.
 
 First create a database for files and use that db.
